@@ -130,3 +130,8 @@ In other words,
 1. Bundle attribute vaules or data and behaviors or functions that manipulate that data
 2. Expose certain data and functions of the objectwhich can be accessed from other objects
 3. Restrict access to certain data and functions to only within that object
+
+
+**Advantages of Encapsulation**
+- Loosely coupled code
+- Better Access Control and Security
