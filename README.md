@@ -135,3 +135,6 @@ In other words,
 **Advantages of Encapsulation**
 - Loosely coupled code
 - Better Access Control and Security
+
+## Decomposition
+Decomposition is taking a whole thing and dividing it up into different parts. Or, on the flip side, taking bunch of separate parts with different functionalities and combining them together to form a whole. Decomposition allows you to further break down problems inot pieces that are easier to understand and solve
